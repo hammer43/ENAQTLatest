@@ -1,0 +1,11 @@
+Material System,Diffusion Length (µm),Carrier Lifetime (ns),Mobility (cm²/V·s),Dephasing Time (ps),Static Disorder (meV),References
+MAPbI3 (3D hybrid),1.0,300,25,150,40,"Akel et al., PRX Energy 2023"
+FAPbI3 (3D hybrid),2.3,1000,35,200,35,"Grisard et al., Nat. Commun. 2023"
+CsPbBr3 (inorganic),1.5,150,20,180,45,"Chen et al., ACS Energy Lett. 2024"
+FA-Cs Pb(Br/I)3 (mixed halide),2.0,800,30,170,30,"Shrestha et al., Sci. Adv. 2022"
+2D Ruddlesden-Popper (n=2),0.35,60,3,80,60,"Shrestha et al., Sci. Adv. 2022"
+2D RP (n=3),0.6,90,5,100,55,"Shrestha et al., Sci. Adv. 2022"
+MAPbBr3 single crystal,3.0,2000,60,300,25,"Gong et al., Nat. Commun. 2019"
+CsPbI3 nanocrystal film,0.8,100,10,120,50,"Chen et al., ACS Energy Lett. 2024"
+Mixed halide polycrystal,1.2,500,15,160,40,"Akel et al., PRX Energy 2023"
+Lead-free (Sn) MASnI3,0.4,50,8,90,70,"Chen et al., ACS Energy Lett. 2024"
